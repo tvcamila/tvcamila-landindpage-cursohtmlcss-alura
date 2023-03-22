@@ -1,9 +1,9 @@
 
 # Olá, Bem vindo ao meu projeto de portfólio.
-tvcamila-landindpage-cursohtmlcss-alura
-Projeto desenvolvido nos cursos de HTML e CSS da Alura
+ 
+ Projeto desenvolvido nos cursos de HTML e CSS da Alura
 
-![image]()
+![image](https://github.com/tvcamila/tvcamila-landindpage-cursohtmlcss-alura/blob/main/assets/desing-projeto.PNG)
 
 ## Ferramentas utilizadas:
 
@@ -17,5 +17,5 @@ Projeto desenvolvido nos cursos de HTML e CSS da Alura
 
 ### Camila Mendes
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/in/camila-da-paixao-mendes-596076250/
 
